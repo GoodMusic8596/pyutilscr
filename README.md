@@ -7,26 +7,26 @@ Pyutils is a package that contains many different utilities ranging from getting
 
 **[Pypi Page](https://pypi.org/project/pyutils-cr/)**
 
-**[Github Page](https://github.com/GoodMusic8596/pyutilscr)**
+**[Github Page](https://github.com/GoodMusic8596/pythonutilities)**
 
 # Examples
 ---
 
 Return complete system information
 ```py
-import pyutilities
+import pyutilscr
 overview = pyutilities.ov()
 print(overview.complete())
 ```
 Get source code
 ```py
-import pyutilities as pyutil
+import pyutilscr as pyutil
 print(pyutil.method_source(pyutil.method_source()))
 #Use file_source instead of method_source for files
 ```
 
 Dump output of python script
 ```py
-import pyutilities as pyutil
+import pyutilscr as pyutil
 pyutil.log("foo.py","dump.txt")
 ```

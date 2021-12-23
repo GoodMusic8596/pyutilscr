@@ -4,7 +4,7 @@ with open("README.md", "r") as fhandle:
     long_description = fhandle.read() 
 setuptools.setup(
     name="pyutils-cr", 
-    version="0.1.2", 
+    version="0.1.3", 
     author="Crow Randalf", 
     author_email="somethings8596@gmail.com", 
     description="A simple package that contains extremely useful utilities.", 
