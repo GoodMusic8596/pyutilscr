@@ -3,4 +3,4 @@ from pyutilscr.pinfo import overview
 from pyutilscr.source import method_source,file_source
 
 
-__version__= "0.1.1"
+__version__= "0.1.2"
