@@ -10,7 +10,7 @@ setuptools.setup(
     description="A simple package that contains extremely useful utilities.", 
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/GoodMusic8596/pythonutilities", 
+    url="https://github.com/GoodMusic8596/pyutilscr", 
     packages=setuptools.find_packages(), 
     classifiers=[
         "Programming Language :: Python :: 3",

@@ -7,7 +7,7 @@ Pyutils is a package that contains many different utilities ranging from getting
 
 **[Pypi Page](https://pypi.org/project/pyutils-cr/)**
 
-**[Github Page](https://github.com/GoodMusic8596/pythonutilities)**
+**[Github Page](https://github.com/GoodMusic8596/pyutilscr)**
 
 # Examples
 ---
