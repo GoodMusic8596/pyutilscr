@@ -30,3 +30,9 @@ Dump output of python script
 import pyutilscr as pyutil
 pyutil.log("foo.py","dump.txt")
 ```
+
+Check to see if a string is in a file
+```py
+import pyutilscr as pyutil
+print(pyutil.search("/home/runner/foo/",["Yessir","pyutilscr"],".py"))
+```
