@@ -1,7 +1,0 @@
-pyutilscr
-=========
-
-.. toctree::
-   :maxdepth: 4
-
-   pyutilscr
